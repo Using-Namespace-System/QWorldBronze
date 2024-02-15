@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - pylatexenc
+  - seaborn
   - ipykernel
   - pip
   - pip:
